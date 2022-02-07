@@ -2,6 +2,6 @@
 
 This is the README file
 
-## Subheader
+## Equation Solving
 
-I have made a change in visual studio and added this text as a subheader
+The goal of this branch is to create an algorithm that solves equations.
